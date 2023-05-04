@@ -45,6 +45,6 @@ Hi, I'm **Abdoo**, 20 years old **A passionate web developer from Morocco**.and 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/chikhidevA) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/abderrahimchikhi) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/chikhidev) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Ko-fi.com/chikhidev) 
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+<!-- ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg) -->
