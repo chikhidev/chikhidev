@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/chikhi@dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chikhi@dev" height="30" width="40" /></a>
 <a href="https://instagram.com/abderrahim_benchikhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abderrahim_benchikhi" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/cgeGEqqw" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="abderrahim_benchikhi" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/cgeGEqqw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abderrahim_benchikhi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
