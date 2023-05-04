@@ -14,7 +14,7 @@ Hi, I'm **Abdoo**, 20 years old **A passionate web developer from Morocco**.and 
 </br>
 </br>
 
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif"/>
 
 
 **Current Status Quo:**
