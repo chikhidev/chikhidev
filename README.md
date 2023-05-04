@@ -14,16 +14,15 @@ Hi, I'm **Abdoo**, 20 years old **A passionate web developer from Morocco**.and 
 </br>
 </br>
 
-**Current Status Quo:**
-----
-
-* 🔭 I’m currently learning on **Software engineering**.
-* 🌱 I’m currently a student in @alx.
-* 🎮 I hope someday I make my own game.
-* 📫 Please contact me via chikhi.dev@gmail.com
-
-<img alt="Coder GIF" height="250" width="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-
+<div style="display: flex; align-items: center;">
+    <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+    <ul style="list-style: none; padding-left: 0;">
+        <li>🔭 I’m currently learning on **Software engineering**.</li>
+        <li>🌱 I’m currently a student in @alx.</li>
+        <li>🎮 I hope someday i make my own game.</li>
+        <li>📫 Please contact me via chikhi.dev@gmail.com</li>
+    </ul>
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
