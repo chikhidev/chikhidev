@@ -1,8 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile%2C+m+Abdoo)](https://git.io/typing-svg)
-<h3 align="center">Full-Stack Web Developer<span color="blue"> & </span><span color="blue"> & </span> SE</h3>
-
-
-
 ### Hello! 👾
 
 > Beat the tech
