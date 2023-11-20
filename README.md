@@ -14,8 +14,8 @@ Hi, I'm **Abdoo**, 21 years old **A passionate web developer from Morocco**.and 
    
 ## Current Status Quo:
      
-* <> I’m currently student at **1337** School.
-* 🌱 I’m currently a student in @alx.
+* <> I’m currently student at **1337** Coding School.
+*  Inrolled in @alx.
 
 
 <h3 align="left">Connect with me:</h3>
