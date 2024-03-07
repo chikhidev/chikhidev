@@ -3,7 +3,7 @@
 > Beat the tech
 > Work smart ! hard
 
-Hi, I'm **Abdoo**, 21 years old **A passionate web developer from Morocco**.and I like to develop in [JS, Python]. I am passionate about **Front-end**, **Back-end**, and **Software-ingeneering**. Currently, I'm looking to collaborate on web open-source projects. Besides programming, I like pixel arts and planting 🌱🌿 and watch anime 🍥.
+Hi, I'm **Abdoo**, 21 years old **A passionate IT developer from Morocco**. Besides programming, I like pixel arts and planting 🌱🌿 and watch anime 🍥.
 </br>
 </br>
 </br>
