@@ -12,9 +12,9 @@ Hi, I'm **Abdoo**, 21 years old **A passionate IT developer from Morocco**. Besi
 </br>
    
 ## Current Status Quo:
-     
-* <> I’m currently student at **1337** Coding School.
-*  Inrolled in @alx.
+
+* I’m currently student at **1337** Coding School.
+* Inrolled in @alx.
 
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
